@@ -8,6 +8,20 @@
   </div>
 </template>
 
+<script>
+// import firebase from 'firebase'
+// const db = firebase.firestore()
+
+export default {
+  // data() {return{ events: [] }},
+   
+  // firestore: {
+  //   events: db.collection('events')
+  // }
+}
+</script>
+
+
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
