@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Continious deployment"/>
+    <HelloWorld msg="Testing again"/>
   </div>
 </template>
 
